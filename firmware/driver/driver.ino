@@ -4,7 +4,7 @@
 //#define DEBUG
 
 //drive 7 & 11, unused 12-13 & 44-46
-const char pwm[] = {2,3,4,5,6,7,11,12,13,44,45,46};
+//const char pwm[] = {2,3,4,5,6,7,11,12,13,44,45,46};
 const char solenoid[] = {39,40,41,42,43,44};
 const char analog[] = {A0,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,A11,A12,A13,A14,A15};
 const char digital[] = {22,23,24,25,26,27,28,29,30,31,32,33,34,35,36};
